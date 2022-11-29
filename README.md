@@ -14,6 +14,7 @@
     <li> Unidade 02 - Exercícios</li>
     <ul>
         <li type = "circle"> 02.05 - Calcula o produto de três inteiros.</li>
+        <li type = "circle"> 02.16 - Soma, Produto, Diferença e Quociente</li>
     </ul>
     <br>
 </ul>
